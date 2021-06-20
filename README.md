@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on .NET MVC.
+- 🔭 &nbsp; I’m currently working on .NET MVC.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a software developer.
 - 🌱 &nbsp; I’m currently learning Node and React.
