@@ -1,5 +1,9 @@
 <h2> Hey there! I'm Kalpesh.</h2>
 
+## 📫 How to reach me: 
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kalpesh-patil-0588a9180//)](https://in.linkedin.com/in/kalpesh-patil-0588a9180) [![Gmail Badge](https://img.shields.io/badge/-kalpeshpatilkp1408@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalpeshpatilkp1408@gmail.com)](mailto:kalpeshpatilkp1408@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on .NET MVC.
