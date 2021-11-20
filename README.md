@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on .NET MVC & Microsoft SQL Server.
+- 🔭 &nbsp; I’m currently working on .NET MVC, .NET Core & Microsoft SQL Server.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a software developer.
 - 🌱 &nbsp; I’m currently learning Node and React.
