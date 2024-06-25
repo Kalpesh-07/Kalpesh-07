@@ -6,10 +6,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on .NET MVC, .NET Core & Microsoft SQL Server.
+- 🔭 &nbsp; I’m currently working on Golang, .Net Core, Angular and AWS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a software developer.
-- 🌱 &nbsp; I’m currently learning Node and React.
+- 🌱 &nbsp; I’m currently learning distributed system, cloud technologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -19,8 +19,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
