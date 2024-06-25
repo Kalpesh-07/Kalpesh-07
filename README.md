@@ -17,9 +17,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Golang](https://img.shields.io/badge/Golang-blue)
+  ![Golang](https://img.shields.io/badge/Golang-black)
   ![AWS](https://img.shields.io/badge/AWS-black)
-  ![.Net Core](https://img.shields.io/badge/.Net_Core-blue)
+  ![.Net Core](https://img.shields.io/badge/.Net_Core-black)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
